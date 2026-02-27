@@ -10,4 +10,3 @@ while contador <=4:
 media=soma_notas/4
 print("media dos alunos é:",media)
 
-    
